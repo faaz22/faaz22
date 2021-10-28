@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 How to reach me: [Youtube - @RidzCreations](https://www.youtube.com/channel/UCoXamjItgSKtu1j61EB04cg)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
+- ⚡ Fun fact: Highly dedicated toward my task.
 
 
 
