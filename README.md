@@ -54,17 +54,16 @@ Here are some ideas to get you started:
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadRijwan&theme=vue" />
 </p>
 
-## ✍️ Contact Us
-<a href="https://github.com/MohammadRijwan">
+<!-- <a href="https://github.com/MohammadRijwan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadRijwan&theme=light&hide_langs_below=1" />
 
 <a href="https://github.com/MohammadRijwan">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MohammadRijwan&show_icons=true&theme=light&line_height=27" alt="MohammadRijwan's github stats"/>
-</a>
+</a> -->
 
 <div align="center">
 
-For Contact: 
+## ✍️ Contact Us
   
   Email: ridz.creation4@gmail.com
 
