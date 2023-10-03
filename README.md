@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I'm [Mohammad Rijwan](https://ridzcreations.github.io/) 👋
+## I'm [Faaz Ibrahim] 👋
 
 Here are some ideas to get you started:
 
