@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ## 📒 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammadRijwan&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fazz22&theme=vue"/>
 </p>
 
 ## 📟 GitHub Stats
@@ -40,18 +40,14 @@ Here are some ideas to get you started:
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=faaz22&theme=vue" />
 </p>
 
-<!-- <a href="https://github.com/MohammadRijwan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadRijwan&theme=light&hide_langs_below=1" />
+<!-- <a href="https://github.com/fazz22">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazz22&theme=light&hide_langs_below=1" />
 
 <a href="https://github.com/MohammadRijwan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=MohammadRijwan&show_icons=true&theme=light&line_height=27" alt="MohammadRijwan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=fazz22&show_icons=true&theme=light&line_height=27" alt="fazz22's github stats"/>
 </a> -->
 
 <div align="center">
-
-## ✍️ Contact Us
-  
-  Email: ridz.creation4@gmail.com
 
 </div>
 
