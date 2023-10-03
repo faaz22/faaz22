@@ -5,36 +5,22 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently working as software Engineer
 - 🔭 I’m currently working on Flutter Projects
-- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCoXamjItgSKtu1j61EB04cg).
+- 👯 I’m looking to collaborate .
 - 💬 Ask me about Flutter or any tech-related stuff.
-- 📫 How to reach me: [Youtube - @RidzCreations](https://www.youtube.com/channel/UCoXamjItgSKtu1j61EB04cg)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Highly dedicated toward my task.
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MohammadRijwan&label=Views&color=blue&style=plastic" alt="MohammadRijwan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=faaz22&label=Views&color=blue&style=plastic" alt="Faaz" /> </p>
 
-<a href="https://github.com/MohammadRijwan">
-  <img align="left" alt="MohammadRijwan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
-<a href="https://www.instagram.com/ridz.creations/">
-  <img align="left" alt="MohammadRijwan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCoXamjItgSKtu1j61EB04cg">
-  <img align="left" alt="MohammadRijwan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<a href="https://github.com/faaz22">
+  <img align="left" alt="Faaz's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
 <br/>
 <br/>
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ridz.creations)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCoXamjItgSKtu1j61EB04cg) 
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-rijwan-khan-khan)  -->
-
-**Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
