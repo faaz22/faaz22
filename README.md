@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohammadRijwan&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadRijwan&theme=vue" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=faaz22&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=faaz22&theme=vue" />
 </p>
 
 <!-- <a href="https://github.com/MohammadRijwan">
